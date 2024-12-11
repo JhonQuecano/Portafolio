@@ -1,0 +1,8 @@
+@media (max-width: 480px) {
+    .section3 a{
+        font-size: 37px;
+    }
+    section {
+        margin-top: 10vh;
+    }
+}

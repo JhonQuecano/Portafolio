@@ -1,0 +1,11 @@
+path intellisense
+indent rainbow
+prettier
+code runer
+live server
+live share
+python
+html css support
+material icon theme
+image preview
+codesnap
