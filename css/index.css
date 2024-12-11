@@ -27,7 +27,7 @@ body::-webkit-scrollbar {
     flex-direction: column;
     position: fixed;
     right: 4%;
-    top: 45vh;
+    top: 43vh;
 }
 .sections a{
     color: #fff;
